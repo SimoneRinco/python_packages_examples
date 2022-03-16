@@ -1,0 +1,2 @@
+# This is created running python setup.py install
+build/*
