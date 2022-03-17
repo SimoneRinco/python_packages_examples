@@ -1,4 +1,4 @@
 
 
 def print_me():
-    print("I am bar")
+    print(f"I am {__file__}")
